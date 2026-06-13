@@ -1,0 +1,21 @@
+# Ignore all .env files
+# .env
+
+# Ignore all virtual environment directories
+.venv310/
+venv/
+.venv/
+
+# Ignore all pychache files
+__pycache__/
+*.pyc
+.env
+Deliverables
+token.json
+
+# Ignore tokens files
+# tokens.json
+
+#Ignore folders
+# HUAWEI_HEALTHKIT_20260530033030/
+# HUAWEI_HEALTH_20260530033030/
